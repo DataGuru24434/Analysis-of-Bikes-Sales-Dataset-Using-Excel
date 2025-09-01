@@ -58,6 +58,10 @@ To prepare the dataset for analysis, the following steps were taken:
 
 ---
 
+## Dashboard Image
+
+[!Bike Sales Dashboard] (https://github.com/DataGuru24434/Analysis-of-Bikes-Sales-Dataset-Using-Excel/blob/master/Bike_Sales_Dashboard.jpg?raw=true)
+
 ## 🟣 Key Insights  
 - The **average income** of bike purchasers differs across genders.  
 - Commute distance strongly influences the **likelihood of buying a bike**.  
